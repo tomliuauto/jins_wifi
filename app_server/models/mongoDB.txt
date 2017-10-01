@@ -1,0 +1,14 @@
+Start MongoDB
+sudo service mongod start
+
+Stop MongoDB
+sudo service mongod stop
+
+Restart MongoDB
+sudo service mongod restart
+
+link
+https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
+
+link for c9
+https://community.c9.io/t/setting-up-mongodb/1717
