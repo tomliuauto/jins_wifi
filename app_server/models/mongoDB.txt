@@ -12,3 +12,6 @@ https://docs.mongodb.com/manual/tutorial/install-mongodb-on-ubuntu/
 
 link for c9
 https://community.c9.io/t/setting-up-mongodb/1717
+
+start on c9
+./mongod
